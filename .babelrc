@@ -1,0 +1,4 @@
+{
+    "presets": ["env"],
+    "plugins": ["syntax-dynamic-import"] //实现路由的懒加载
+}
